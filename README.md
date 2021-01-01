@@ -1,4 +1,5 @@
-# matrix
-Matrix like animation using HTML5 Canvas. Inspired from [sample code](http://thecodeplayer.com/walkthrough/matrix-rain-animation-html5-canvas-javascript) on [thecodeplayer.com](http://thecodeplayer.com/).
+# Matrix Rain
+Matrix like animation using HTML5 Canvas. Inspired from [lively_matrix](https://github.com/bad1dea/lively_matrix).
 
-See it in action @ http://parambirs.github.io/matrix
+# Preview
+![preview](preview%202.gif)

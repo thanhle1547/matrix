@@ -1,0 +1,57 @@
+{
+    "matrixCharacters": {
+        "type": "dropdown",
+        "value": 0,
+        "text": "Matrix Characters",
+        "items": [
+            "Binary",
+            "Gurmukhi",
+            "Sanskrit",
+            "Konkani",
+            "Katakana"
+        ]
+    },
+    "fontSize": {
+        "max": 21,
+        "min": 5,
+        "tick": 1,
+        "text": "Font Size",
+        "type": "slider",
+        "value": 17
+    },
+    "matrixColorPresets": {
+        "type": "dropdown",
+        "value": 0,
+        "text": "Matrix Color Presets",
+        "items": [
+            "Lime green",
+            "Bright violet"
+        ]
+    },
+    "useCustomColor": {
+        "type": "checkbox",
+        "value": false,
+        "text": "Use Custom Color"
+    },
+    "customMatrixColor": {
+        "text": "Custom Matrix Color",
+        "type": "color",
+        "value": "#00FF46"
+    },
+    "matrixFadingSpeed": {
+        "max": 10,
+        "min": 0,
+        "tick": 1,
+        "text": "Matrix Fading Speed",
+        "type": "slider",
+        "value": 8
+    },
+    "fps": {
+        "max": 100,
+        "min": 20,
+        "tick": 1,
+        "text": "FPS",
+        "type": "slider",
+        "value": 40
+    }
+}

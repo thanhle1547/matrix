@@ -1,0 +1,14 @@
+{
+    "AppVersion": "1.0.0.0",
+    "Title": "Matrix Rain",
+    "Thumbnail": "thumbnail.png",
+    "Preview": "preview.gif",
+    "Desc": "Matrix like rain animation",
+    "Author": "thanhle1547",
+    "License": "",
+    "Contact": "https://github.com/thanhle1547/matrix-rain",
+    "Type": 1,
+    "FileName": "index.html",
+    "Arguments": null,
+    "IsAbsolutePath": false
+}
